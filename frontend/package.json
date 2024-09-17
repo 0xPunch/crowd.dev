@@ -62,7 +62,7 @@
     "unleash-proxy-client": "^2.4.3",
     "uuid": "8.3.0",
     "v-network-graph": "^0.8.2",
-    "vite": "^4.4.7",
+    "vite": "^4.5.5",
     "vue": "^3.3.1",
     "vue-3-sanitize": "^0.1.4",
     "vue-draggable-next": "^2.2.1",
